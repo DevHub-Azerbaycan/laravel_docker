@@ -10,6 +10,6 @@ Başlamaq üçün sisteminizdə [Docker quraşdırılmış](https://docs.docker.
 
 Yaradılmış konteynerlər və portalları:
 
-- **nginx** - `:8080`
-- **mysql** - `:3306`
-- **php** - `:9000`
+- **nginx** - `:8080` (latest)
+- **mysql** - `:3306` (5.7.22)
+- **php** - `:9000` (7.4)
