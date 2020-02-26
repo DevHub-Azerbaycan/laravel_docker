@@ -1,6 +1,6 @@
 FROM php:7.4-fpm
 
-WORKDIR /src
+WORKDIR /var/www
 
 # Copy composer.lock and composer.json
 COPY src/composer.lock src/composer.json /var/www/
