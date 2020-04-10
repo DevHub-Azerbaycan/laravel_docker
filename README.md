@@ -1,4 +1,4 @@
-# laravel_docker © [DevHub](https://t.me/devhub_az)
+# Laravel + Docker © [DevHub](https://t.me/devhub_az)
 - [Laravel](https://laravel.com)
 - [Docker](https://www.docker.com)
 
